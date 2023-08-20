@@ -1,1 +1,3 @@
-hello assignment
+Name: Akshay Anand
+Skills: HTML, CSS, JS,React.js,Node.js, MongoDB
+Email: test@gmail.com
